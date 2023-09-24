@@ -1,3 +1,9 @@
+# Working Images
+<img width="990" alt="Screenshot 2023-09-24 at 4 41 46 PM" src="https://github.com/RaymondYan38/blog-frontend/assets/94600273/e8594845-a5d2-4c04-8822-6c7fab30923e">
+<img width="987" alt="Screenshot 2023-09-24 at 4 41 53 PM" src="https://github.com/RaymondYan38/blog-frontend/assets/94600273/510ab6b5-58c1-4b59-a99e-2a1395ad1f5f">
+<img width="651" alt="Screenshot 2023-09-24 at 4 50 12 PM" src="https://github.com/RaymondYan38/blog-frontend/assets/94600273/f763dd89-dbc7-4509-8380-ba0c8ec08f3d">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
