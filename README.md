@@ -1,7 +1,14 @@
 # Working Images
 <img width="990" alt="Screenshot 2023-09-24 at 4 41 46 PM" src="https://github.com/RaymondYan38/blog-frontend/assets/94600273/e8594845-a5d2-4c04-8822-6c7fab30923e">
+<br />
 <img width="987" alt="Screenshot 2023-09-24 at 4 41 53 PM" src="https://github.com/RaymondYan38/blog-frontend/assets/94600273/510ab6b5-58c1-4b59-a99e-2a1395ad1f5f">
+<br />
 <img width="651" alt="Screenshot 2023-09-24 at 4 50 12 PM" src="https://github.com/RaymondYan38/blog-frontend/assets/94600273/f763dd89-dbc7-4509-8380-ba0c8ec08f3d">
+<br />
+<img width="653" alt="Screenshot 2023-09-25 at 12 24 39 AM" src="https://github.com/RaymondYan38/blog-frontend/assets/94600273/72611029-53eb-4454-9746-b439d5e930cb">
+<br />
+<img width="642" alt="Screenshot 2023-09-25 at 12 24 58 AM" src="https://github.com/RaymondYan38/blog-frontend/assets/94600273/2fa4fcd8-361e-4041-9fc6-0fd1e3a65b14">
+
 
 
 # Getting Started with Create React App
